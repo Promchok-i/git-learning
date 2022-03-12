@@ -10,3 +10,6 @@ Learning Git command
 - commit : git commit -m "Your message"
 - Push   : git push
 - Pull   : git pull
+#### Git Branch
+- Create new branch : git branch "Your branch" or git checkout -b "Your branch"
+- Change to branch : git checkout "Your branch"
